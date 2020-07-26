@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=J2-2
+Removed Pin From Net: NetName=+5 Pin=J2-3
+Removed Pin From Net: NetName=NetJ1_1 Pin=NodeMCU_1-D0
+Removed Pin From Net: NetName=NetJ1_3 Pin=NodeMCU_1-D5
+Added Pin To Net: NetName=+5 Pin=J2-1
+Added Pin To Net: NetName=NetJ1_3 Pin=NodeMCU_1-D0
+Added Pin To Net: NetName=NetJ1_1 Pin=NodeMCU_1-D5
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=NodeMCU_1-GND
+Added Pin To Net: NetName=NetJ2_2 Pin=NodeMCU_1-GND
+Added Pin To Net: NetName=NetJ2_2 Pin=NodeMCU_1-GND
+Added Pin To Net: NetName=NetJ2_2 Pin=NodeMCU_1-GND
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=NetJ2_3 Pin=J2-3
+Added Pin To Net: NetName=NetJ2_3 Pin=NodeMCU_1-D6
+Added Net: Name=NetJ2_3
